@@ -1,0 +1,70 @@
+
+
+.button {
+    -fx-font-size: 14px;
+    -fx-font-family: "Arial Narrow";
+    -fx-background-color: #EFB5CA;
+    -fx-text-fill: #67040C;;
+    -fx-border-color: #67040C;
+    -fx-min-width: 200px;
+    -fx-max-width: 200px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-background-radius: 3, 3, 3, 3;
+    -fx-border-radius: 3, 3, 3, 3;
+    -fx-border-width: 1px;
+}
+
+.table-cell {
+    -fx-text-fill: #110502;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-size: 12;
+
+}
+.custom-vbox {
+    -fx-alignment: center;
+    -fx-spacing: 20;
+}
+
+.password-field{
+    -fx-prompt-text-fill: #110502;
+    -fx-background-color: #e29e06;
+    -fx-text-fill: #110502;
+    -fx-background-radius: 3, 3, 3, 3;
+    -fx-border-radius: 3, 3, 3, 3;
+    -fx-border-width: 1px;
+    -fx-border-color: #67040C;
+    -fx-text-fill: #67040C;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-size: 14;
+    -fx-min-width: 200px;
+    -fx-max-width: 200px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+}
+
+.textField {
+    -fx-prompt-text-fill: #110502;
+    -fx-background-color: #e29e06;
+    -fx-text-fill: #110502;
+    -fx-background-radius: 3, 3, 3, 3;
+    -fx-border-radius: 3, 3, 3, 3;
+    -fx-border-width: 1px;
+    -fx-border-color: #67040C;
+    -fx-text-fill: #67040C;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-size: 14;
+    -fx-min-width: 200px;
+    -fx-max-width: 200px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+}
+
+.table-view{
+    -fx-prompt-text-fill: #110502;
+    -fx-background-color: #e29e06;
+    -fx-background-radius: 3, 3, 3, 3;
+    -fx-border-radius: 3, 3, 3, 3;
+}
+
+
